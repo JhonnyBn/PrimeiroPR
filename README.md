@@ -5,7 +5,7 @@ Repositório destinado a ensinar o básico de Git/GitHub aos integrantes do PET-
 
 Nosso objetivo é criar um PR (Pull Request) contendo uma alteração/atualização para este projeto. Para isto, precisaremos aprender alguns termos e alguns comandos.
 
-Primeiramente, vamos instalar o Git e criar uma conta no GitHub.
+Primeiramente, vamos instalar o Git e criar/entrar em uma conta do GitHub.
 
 > Atenção! Git e GitHub não são a mesma coisa!
 > - *GitHub* é um site de hospedagem de códigos. Ele ajuda desenvolvedores a compartilhar seus códigos facilmente através do *Git*;
@@ -16,7 +16,19 @@ Para instalar o Git é bem tranquilo:
 - Para Windows, use o instalador disponível no [site do Git](https://git-scm.com/download/win) ou, caso tenha o winget: `winget install --id Git.Git -e --source winget`
 - E para Mac, basta instalar o Xcode ou usar o homebrew: `brew install git`
 
-E para criar uma conta no GitHub basta ()
+Caso você ainda não tenha uma conta no GitHub, basta entrar no [site do GitHub](github.com), clicar em Sign Up e seguir os passos.
+
+## Criando um Fork do repositório
+
+Este passo não é necessário caso você tenha permissões de contribuidor no projeto, mas ao trabalhar em projetos de código aberto geralmente não teremos, então criaremos um Fork.
+
+> Um Fork, em poucas palavras, é outra versão do projeto, mantida por outro usuário. No nosso caso, será uma versão temporária somente para sugerir melhorias no código.
+
+Vá para a página do projeto no GitHub e clique em Fork, no canto superior direito da tela, como indicado no print:
+
+![image](https://user-images.githubusercontent.com/29382833/153613051-fa321c84-c536-4006-aeb0-afcfa24c76f7.png)
+
+Agora temos nossa própria versão do repositório em nosso usuário.
 
 ## Clonando um repositório
 
@@ -25,8 +37,12 @@ Para trabalharmos em um projeto, o primeiro passo é baixar o código dele. Para
 
 > Repositório é onde guardamos o código de um projeto, e geralmente é um link
 
-Por exemplo, para clonar este projeto, vamos clonar o repositório PET-SI-UFU/PrimeiroPR:
+Por exemplo, para clonar este projeto, vamos clonar o repositório Usuário/PrimeiroPR:
 - `git clone https://github.com/PET-SI-UFU/PrimeiroPR.git`
+> Lembre-se que caso você tenha feito Fork, você deve clonar o repositório do seu usuário
+
+A pasta do projeto foi baixada no diretório atual. Não se esqueça de entrar na pasta do projeto antes de ir para o próximo passo!
+- `cd PrimeiroPR`
 
 ## Criando um novo branch!
 
