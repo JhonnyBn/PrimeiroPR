@@ -1,0 +1,19 @@
+Lista de presença/contribuidores do projeto:
+
+11711BSI211 - 
+11711BSI212 - 
+11721BSI245 - 
+11811BSI201 - 
+11821BSI245 - 
+11911BSI211 - 
+11921BSI209 - 
+11921BSI219 - 
+11921BSI222 - 
+11921BSI246 - 
+11921BSI247 - 
+12011BSI213 - 
+12011BSI271 - 
+12021BSI231 - 
+12021BSI234 - 
+
+Muito obrigado por sua participação!

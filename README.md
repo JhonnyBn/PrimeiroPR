@@ -80,7 +80,7 @@ Dito isto, é importante dizer que temos dois tipos de branch:
 
 Agora que você já tem sua própria versão do projeto em sua máquina, mãos à obra!
 
-Altere algum arquivo do projeto, como por exemplo adicione seu nome na [Lista de Presença]().
+Altere algum arquivo do projeto, como por exemplo adicione seu nome na [Lista de Presença/Contribuidores](Contribuidores.md)!
 
 Podemos ver quais arquivos foram alterados localmente ao usar o comando *status*:
 - `git status`
