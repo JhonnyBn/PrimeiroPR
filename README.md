@@ -99,12 +99,17 @@ Feito isto, vamos realizar o commit em si, utilizando o comando *commit* com a o
 ## Enviando sua nova versão para o servidor
 
 Depois que você fizer suas alterações e seus commits, utilizaremos o famoso comando *push* para enviar a atualização para o servidor remoto
-- `git push origin nome-do-novo-branch`
+
+Como é a primeira vez que faremos push neste projeto, precisamos configurar o push, então usaremos o seguinte comando:
+- `git push --set-upstream origin nome-do-novo-branch`
+> A opção '--set-upstream' indica que vamos salvar para qual servidor vamos enviar as atualizacoes nos proximos pushes
+>
 > A opção 'origin' indica que vamos enviar a atualização para o servidor de origem do projeto, aquele que fizemos git clone lá no início
 > 
-> E a opção 'nome-do-novo-branch'? Pois é, lembra que criamos o novo branch localmente, e ainda não falamos pro servidor que tem um novo branch? Essa opção indica para o servidor criar um novo branch remoto com as nossas alterações do branch local 'nome-do-branch'
+> E a opção 'nome-do-novo-branch'? Pois é, lembra que criamos o novo branch localmente, e ainda não falamos pro servidor que tem um novo branch? Essa opção indica para o servidor criar um novo branch remoto com as nossas alterações do branch local 'nome-do-novo-branch'
 > 
-> Após criar o branch remoto, podemos usar apenas `git push origin`
+
+Após realizar esta configuração inicial, criar o branch remoto, podemos usar apenas `git push origin`
 
 ## Seu primeiro Pull Request!
 
