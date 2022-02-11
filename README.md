@@ -140,6 +140,20 @@ Pronto, pode comemorar à vontade, você fez seu primeiro PR!
 
 Agora cabe ao mantenedor do projeto verificar as mudanças e fazer merge se achar conveniente.
 
+## Aceitando o PR (na visão de mantenedor do projeto)
+
+Após verificar as mudanças, se o mantenedor do projeto gostar das atualizações e não pedir nenhum commit adicional, ele vai no GitHub, na página do PR criado, e realiza um commit de *merge*, como indicado nos prints abaixo:
+
+> Merge é a ferramenta do Git para enviar as alterações de um branch para outro
+
+![Aceitando o PR](https://user-images.githubusercontent.com/29382833/153620653-e1ffa5ce-f000-4029-ba33-74ce99bf357e.png)
+
+![Confirmando o PR](https://user-images.githubusercontent.com/29382833/153621272-c33b4549-a980-4d62-bc16-2119a4597904.png)
+
+## Enviando as mudanças para o branch principal (na visão de mantenedor do projeto)
+
+
+
 ## Resumo
 
 - `git clone repoitorio`
