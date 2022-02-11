@@ -110,6 +110,10 @@ Como é a primeira vez que faremos push neste projeto, precisamos configurar o p
 
 Após realizar esta configuração inicial e criar o branch remoto, podemos usar apenas `git push` para enviar as próximas atualizações para o servidor/repositório.
 
+> Talvez você precise gerar um token para fazer o push com sucesso. Para fazer isso, vá na página do GitHub e acesse as configurações (Settings) da sua conta (você pode acessar clicando na sua imagem de usuário no canto superior direito). Depois, no canto inferior esquerdo, escolha a opção "Developer settings", e por fim, a opção "Personal access tokens". Clique no botão "Generate New Token" para gerar um novo token. Dica: gere um token com permissão de repo marcando a caixa "repo" em "Select scopes". Essa opção permitirá você dar push nos seus commits (pelo menos, o Wendel só conseguiu dar push no commit dele depois de ajustar essa opção).
+>
+>Tendo gerado o token, você pode usá-lo como senha na hora de dar o push nos seus commits. Siga as próximas instruções e seja feliz!
+
 ## Seu primeiro Pull Request!
 
 Agora que fizemos todas as atualizações que queríamos, basta solicitar um novo Pull Request!
