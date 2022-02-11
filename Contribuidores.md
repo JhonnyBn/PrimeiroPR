@@ -8,7 +8,7 @@ Lista de presença/contribuidores do projeto:
 11911BSI211 - <br/>
 11921BSI209 - <br/>
 11921BSI219 - <br/>
-11921BSI222 - <br/>
+11921BSI222 - Murielly<br/>
 11921BSI246 - <br/>
 11921BSI247 - <br/>
 12011BSI213 - <br/>
