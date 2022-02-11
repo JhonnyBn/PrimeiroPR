@@ -14,6 +14,6 @@ Lista de presença/contribuidores do projeto:
 12011BSI213 - <br/>
 12011BSI271 - <br/>
 12021BSI231 - <br/>
-12021BSI234 - <br/>
+12021BSI234 - <br/> Rodrigo Castro Vieira Gomes
 
 Muito obrigado por sua participação!
