@@ -107,9 +107,8 @@ Como é a primeira vez que faremos push neste projeto, precisamos configurar o p
 > A opção 'origin' indica que vamos enviar a atualização para o servidor de origem do projeto, aquele que fizemos git clone lá no início
 > 
 > E a opção 'nome-do-novo-branch'? Pois é, lembra que criamos o novo branch localmente, e ainda não falamos pro servidor que tem um novo branch? Essa opção indica para o servidor criar um novo branch remoto com as nossas alterações do branch local 'nome-do-novo-branch'
-> 
 
-Após realizar esta configuração inicial, criar o branch remoto, podemos usar apenas `git push origin`
+Após realizar esta configuração inicial e criar o branch remoto, podemos usar apenas `git push` para enviar as próximas atualizações para o servidor/repositório.
 
 ## Seu primeiro Pull Request!
 
