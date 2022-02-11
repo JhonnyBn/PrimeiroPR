@@ -1,7 +1,7 @@
 Lista de presença/contribuidores do projeto:
 
 11711BSI211 - <br/>
-11711BSI212 - João<br/>
+11711BSI212 - João Neto<br/>
 11721BSI245 - <br/>
 11811BSI201 - <br/>
 11821BSI245 - <br/>
