@@ -112,7 +112,11 @@ Após realizar esta configuração inicial e criar o branch remoto, podemos usar
 
 ## Seu primeiro Pull Request!
 
-Agora basta ir no GitHub, fazer login, entrar na página do projeto e solicitar um novo Pull Request!
+Agora que fizemos todas as atualizações que queríamos, basta solicitar um novo Pull Request!
+
+> Um PR (Pull Request) é um método de enviar contribuições para projetos de código aberto. Ele envia uma solicitação de alteração para os mantenedores do projeto analisarem caso a caso.
+
+
 
 ## Resumo
 
