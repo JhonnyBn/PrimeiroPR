@@ -26,7 +26,7 @@ Este passo não é necessário caso você tenha permissões de contribuidor no p
 
 Vá para a página do projeto no GitHub e clique em Fork, no canto superior direito da tela, como indicado no print:
 
-![image](https://user-images.githubusercontent.com/29382833/153613051-fa321c84-c536-4006-aeb0-afcfa24c76f7.png)
+![Criando um Fork no GitHub](https://user-images.githubusercontent.com/29382833/153613051-fa321c84-c536-4006-aeb0-afcfa24c76f7.png)
 
 Agora temos nossa própria versão do repositório em nosso usuário.
 
@@ -116,7 +116,29 @@ Agora que fizemos todas as atualizações que queríamos, basta solicitar um nov
 
 > Um PR (Pull Request) é um método de enviar contribuições para projetos de código aberto. Ele envia uma solicitação de alteração para os mantenedores do projeto analisarem caso a caso.
 
+Para isso, vamos na página do projeto, abrimos a aba de *Pull requests* e clicamos em *New pull request*, como indicado no print:
 
+![Novo PR no GitHub](https://user-images.githubusercontent.com/29382833/153617060-33751fda-f18d-4340-be98-22085ae078f9.png)
+
+Caso você tenha feito um Fork do projeto, clique na opção de comparar entre Forks:
+
+![Comparando forks no PR](https://user-images.githubusercontent.com/29382833/153617590-d384e0c6-73ab-4cf1-9204-eefce5bcb20c.png)
+
+Agora selecione para qual branch você quer enviar as atualizações, na esquerda, e de qual branch você quer obter as atualizações, na direita, e clique em *Create pull request*, como indicado no print:
+
+> Lembre-se que geralmente você quer enviar suas atualizações para o branch dev, beta, ou o branch indicado no README do projeto, vindo do seu fork, do seu novo branch.
+>
+> Você pode aproveitar e rever as mudanças realizadas antes ir para o próximo passo
+
+![Selecionando os branches do PR](https://user-images.githubusercontent.com/29382833/153618257-67e032fa-e28a-4952-a0d2-46a9046e36f5.png)
+
+Agora basta dar um nome pro PR e detalhar as mudanças na descrição e clicar em *Create pull request*!
+
+![Detalhando o PR](https://user-images.githubusercontent.com/29382833/153619004-b8ae72d6-2806-4cad-b36f-be30c819a4f1.png)
+
+Pronto, pode comemorar à vontade, você fez seu primeiro PR!
+
+Agora cabe ao mantenedor do projeto verificar as mudanças e fazer merge se achar conveniente.
 
 ## Resumo
 
