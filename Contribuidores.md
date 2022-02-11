@@ -10,7 +10,7 @@ Lista de presença/contribuidores do projeto:
 11921BSI219 - <br/>
 11921BSI222 - <br/>
 11921BSI246 - <br/>
-11921BSI247 - <br/>
+11921BSI247 - Lucas Gabriel Teodoro Araújo<br/>
 12011BSI213 - <br/>
 12011BSI271 - <br/>
 12021BSI231 - <br/>
