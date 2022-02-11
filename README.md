@@ -150,12 +150,9 @@ Após verificar as mudanças, se o mantenedor do projeto gostar das atualizaçõ
 
 ![Confirmando o PR](https://user-images.githubusercontent.com/29382833/153621272-c33b4549-a980-4d62-bc16-2119a4597904.png)
 
-## Enviando as mudanças para o branch principal (na visão de mantenedor do projeto)
+# Resumo
 
-
-
-## Resumo
-
+- Se não for contribuidor do projeto, fazer fork dele
 - `git clone repoitorio`
 - `git checkout -b nome-do-novo-branch`
 - fazer alterações
