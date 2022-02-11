@@ -80,7 +80,7 @@ Dito isto, é importante dizer que temos dois tipos de branch:
 
 Agora que você já tem sua própria versão do projeto em sua máquina, mãos à obra!
 
-Altere algum arquivo do projeto, como por exemplo adicione seu nome na [Lista de Presença]().
+Altere algum arquivo do projeto, como por exemplo adicione seu nome na [Lista de Presença/Contribuidores](Contribuidores.md)!
 
 Podemos ver quais arquivos foram alterados localmente ao usar o comando *status*:
 - `git status`
@@ -140,8 +140,19 @@ Pronto, pode comemorar à vontade, você fez seu primeiro PR!
 
 Agora cabe ao mantenedor do projeto verificar as mudanças e fazer merge se achar conveniente.
 
-## Resumo
+## Aceitando o PR (na visão de mantenedor do projeto)
 
+Após verificar as mudanças, se o mantenedor do projeto gostar das atualizações e não pedir nenhum commit adicional, ele vai no GitHub, na página do PR criado, e realiza um commit de *merge*, como indicado nos prints abaixo:
+
+> Merge é a ferramenta do Git para enviar as alterações de um branch para outro
+
+![Aceitando o PR](https://user-images.githubusercontent.com/29382833/153620653-e1ffa5ce-f000-4029-ba33-74ce99bf357e.png)
+
+![Confirmando o PR](https://user-images.githubusercontent.com/29382833/153621272-c33b4549-a980-4d62-bc16-2119a4597904.png)
+
+# Resumo
+
+- Se não for contribuidor do projeto, fazer fork dele
 - `git clone repoitorio`
 - `git checkout -b nome-do-novo-branch`
 - fazer alterações
